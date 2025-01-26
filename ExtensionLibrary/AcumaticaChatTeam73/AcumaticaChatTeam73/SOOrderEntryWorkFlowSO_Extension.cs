@@ -44,7 +44,7 @@ namespace AcumaticaChatTeam7
                 return screen.WithActions(actions =>
                 {
                     actions.AddNew("ChatUmatica", a =>
-                            a.DisplayName("Chat")
+                            a.DisplayName("ChatUmatica")
                             .IsSidePanelScreen(sp =>
                             sp.NavigateToScreen("AC999999")
                                 .WithIcon("details")

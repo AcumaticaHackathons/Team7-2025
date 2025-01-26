@@ -88,12 +88,18 @@ namespace AcumaticaChatTeam7
                 Messages.Add(new Tuple<DateTime?, string, int>(chat.CreatedDateTime, CurrentMessage, 0));
             }
 
+            List<Guid?> AddedChatMembers = new List<Guid?>();
+
             foreach (var Member in ChatMembers.Select())
             {
                 AcumaticaChatMember ChatMember = Member.GetItem<AcumaticaChatMember>();
                 Users User = Member.GetItem<Users>();
-                string CurrentMessage = "\t\t" + User.DisplayName + " has been invited to the chat." + Environment.NewLine;
-                Messages.Add(new Tuple<DateTime?, string, int>(ChatMember.CreatedDateTime, CurrentMessage, 2));
+                if (AddedChatMembers.Contains(User.PKID) == false)
+                {
+                    AddedChatMembers.Add(User.PKID);
+                    string CurrentMessage = "\t\t" + User.DisplayName + " has been invited to the chat." + Environment.NewLine;
+                    Messages.Add(new Tuple<DateTime?, string, int>(ChatMember.CreatedDateTime, CurrentMessage, 2));
+                }
             }
 
             foreach (var Message in ChatMessages.Select())
