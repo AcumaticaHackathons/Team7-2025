@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj": {}
+  },
+  "projects": {
+    "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj",
+        "projectName": "AcumaticaChatTeam73",
+        "projectPath": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj",
+        "packagesPath": "C:\\Users\\keith\\.nuget\\packages\\",
+        "outputPath": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\keith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|c:\\acumatica\\24.203.0023\\instances\\hackathon\\app_data\\projects\\acumaticachatteam73\\acumaticachatteam73\\soorderentryworkflowso_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\soorderentryworkflowso_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407B75C1-DF84-479F-BD54-F5A5D7012034}|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon|c:\\acumatica\\24.203.0023\\instances\\hackathon\\app_data\\coderepository\\px.objects\\so\\workflow\\salesorder\\screenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|c:\\acumatica\\24.203.0023\\instances\\hackathon\\app_data\\projects\\acumaticachatteam73\\acumaticachatteam73\\chatumaticachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\chatumaticachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|c:\\acumatica\\24.203.0023\\instances\\hackathon\\app_data\\projects\\acumaticachatteam73\\acumaticachatteam73\\chatmessageentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\chatmessageentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407B75C1-DF84-479F-BD54-F5A5D7012034}|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon|c:\\acumatica\\24.203.0023\\instances\\hackathon\\app_data\\coderepository\\px.objects\\cr\\dac\\cractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407B75C1-DF84-479F-BD54-F5A5D7012034}|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon|c:\\acumatica\\24.203.0023\\instances\\hackathon\\pages\\so\\so301000.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\acumaticachatteam73\\acumaticachatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\acumaticachatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\acumaticachatteam73\\acumaticachatmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\acumaticachatmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\acumaticachatteam73\\acumaticachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC6D61A-5D4B-4D57-BC6B-5E3F9D04377E}|AcumaticaChatTeam73\\AcumaticaChatTeam73.csproj|solutionrelative:acumaticachatteam73\\acumaticachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SO301000.aspx",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\Pages\\SO\\SO301000.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\Pages\\SO\\SO301000.aspx",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\Pages\\SO\\SO301000.aspx",
+              "RelativeToolTip": "..\\..\\..\\Pages\\SO\\SO301000.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-26T04:12:31.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOOrderEntryWorkFlowSO_Extension.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\SOOrderEntryWorkFlowSO_Extension.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\SOOrderEntryWorkFlowSO_Extension.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\SOOrderEntryWorkFlowSO_Extension.cs*",
+              "RelativeToolTip": "AcumaticaChatTeam73\\SOOrderEntryWorkFlowSO_Extension.cs*",
+              "ViewState": "AQIAACQAAAAAAAAAAAA5wCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:14:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRActivity.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\CodeRepository\\PX.Objects\\CR\\DAC\\CRActivity.cs",
+              "RelativeDocumentMoniker": "..\\..\\CodeRepository\\PX.Objects\\CR\\DAC\\CRActivity.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\CodeRepository\\PX.Objects\\CR\\DAC\\CRActivity.cs",
+              "RelativeToolTip": "..\\..\\CodeRepository\\PX.Objects\\CR\\DAC\\CRActivity.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAIAwwBkBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:38:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatumaticaChat.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\ChatumaticaChat.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\ChatumaticaChat.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\ChatumaticaChat.cs",
+              "RelativeToolTip": "AcumaticaChatTeam73\\ChatumaticaChat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:56:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcumaticaChatMessage.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatMessage.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\AcumaticaChatMessage.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatMessage.cs",
+              "RelativeToolTip": "AcumaticaChatTeam73\\AcumaticaChatMessage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:29:20.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AcumaticaChatMember.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatMember.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\AcumaticaChatMember.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChatMember.cs",
+              "RelativeToolTip": "AcumaticaChatTeam73\\AcumaticaChatMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:29:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcumaticaChat.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChat.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\AcumaticaChat.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\AcumaticaChat.cs",
+              "RelativeToolTip": "AcumaticaChatTeam73\\AcumaticaChat.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwFoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:28:30.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenConfiguration.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\CodeRepository\\PX.Objects\\SO\\Workflow\\SalesOrder\\ScreenConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\CodeRepository\\PX.Objects\\SO\\Workflow\\SalesOrder\\ScreenConfiguration.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\CodeRepository\\PX.Objects\\SO\\Workflow\\SalesOrder\\ScreenConfiguration.cs",
+              "RelativeToolTip": "..\\..\\CodeRepository\\PX.Objects\\SO\\Workflow\\SalesOrder\\ScreenConfiguration.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAMwBQBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:13:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatMessageEntry.cs",
+              "DocumentMoniker": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\ChatMessageEntry.cs",
+              "RelativeDocumentMoniker": "AcumaticaChatTeam73\\ChatMessageEntry.cs",
+              "ToolTip": "C:\\Acumatica\\24.203.0023\\Instances\\Hackathon\\App_Data\\Projects\\AcumaticaChatTeam73\\AcumaticaChatTeam73\\ChatMessageEntry.cs",
+              "RelativeToolTip": "AcumaticaChatTeam73\\ChatMessageEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T02:51:23.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
